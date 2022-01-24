@@ -1,0 +1,37 @@
+.question-container {
+    display: grid;
+    place-items: left;
+    border-bottom: 0.8px solid black;
+    padding: 1.5rem;
+}
+
+.question-text {
+    font-family: Karla;
+    color: #293264;
+    margin-bottom: -0.25rem;
+    margin-top: -0.25rem;
+}
+
+.options {
+    display: flex;
+    gap: 1rem;
+}
+
+.option-button {
+    font-family: Inter;
+    font-size: 1rem;
+    background-color: transparent;
+    border-radius: 8px;
+    border: 2px solid#293264;
+    color: #293264;
+}
+
+.option-button-clicked {
+    font-family: Inter;
+    font-size: 1rem;
+    background-color: #D6DBF5;
+    border-radius: 8px;
+    border: 2px solid#293264;
+    border-radius: 8px;
+    color: #293264;
+}

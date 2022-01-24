@@ -1,0 +1,38 @@
+.start-modal {
+  display: grid;
+  place-items: center;
+  font-family: 'Inter', sans-serif;
+}
+
+  
+h1 {
+  font-family: Karla;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #293264;
+  margin-bottom: 0.5rem;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Inter;
+  font-weight: normal;
+  font-size: 1rem;
+  color: #293264;
+}
+
+button {
+  margin-top: 1.8rem;
+  background: #4D5B9E;
+  border-radius: 15px;
+  font-family: Inter;
+  font-weight: 500;
+  color: #F5F7FB;
+  font-size: 1rem;
+  border: none;
+  padding-inline: 1.8rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  cursor: pointer;
+}
